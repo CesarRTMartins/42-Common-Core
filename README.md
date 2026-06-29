@@ -117,19 +117,23 @@ A collection of Python exercises and modules created while expanding my programm
 ## Repository Structure
 
 42-Common-Core/
+
 ├── Milestone 0/
 │   └── libft/
 │
+
 ├── Milestone 1/
 │   ├── ft_printf/
 │   ├── get_next_line/
-│   └── Born2BeRoot/
+│└── Born2BeRoot/
 │
+
 ├── Milestone 2/
 │   ├── amaze-ing/
 │   ├── pushswap/
 │   └── Python_Modules/
 │
+
 ├── Milestone 3/
 │   └── Fly-Ing/
 
